@@ -1,0 +1,1 @@
+This project contains all source code used to create my layout, and includes all hardware used. This is an exact copy of the enviornement I will be using on my layout to allow for autonomous operations and remote access
